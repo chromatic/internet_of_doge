@@ -21,3 +21,8 @@ What do _you_ think should be in scope?
 
 Open an issue, create a pull request, add to a discussion, leave a comment,
 however you like!
+
+## Active Projects
+
+[Dogecade](dogecade/README.md) - a suite of software to manage Dogecoin
+payments for arcades, coin-operated machines, and other vending systems.
